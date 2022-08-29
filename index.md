@@ -1,27 +1,8 @@
-## Max's Website
+# Max's First CS193 Homework
 
-Hello World
-
-### Markdown
-
-```markdown
-Code written in markdown for syntax purposes
-
-# Header 1 - Largest
-## Header 2 - Medium
-### Header 3 - Smallest
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kalutes/CS193_Fall18_Lab1/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Favorite Things About CS193
+- The instructors are cool
+- 30% of my grade is from attendance/comprehension quizzes
+- There are no exams!
+- Homework assignments are due two weeks after they are released
+- The class teaches helpful CS skills
